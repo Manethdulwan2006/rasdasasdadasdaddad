@@ -157,4 +157,68 @@ function okok() {
   document.getElementById("stno30").innerHTML=stno[stid[29]];
   document.getElementById("r30").value=rel[29];
 
+
+  document.getElementById("stno31").innerHTML=stno[stid[30]];
+  document.getElementById("r31").value=rel[30];
+
+  document.getElementById("stno32").innerHTML=stno[stid[31]];
+  document.getElementById("r32").value=rel[31];
+  
+  document.getElementById("stno33").innerHTML=stno[stid[32]];
+  document.getElementById("r33").value=rel[32];
+
+  document.getElementById("stno34").innerHTML=stno[stid[33]];
+  document.getElementById("r34").value=rel[33];
+
+  document.getElementById("stno35").innerHTML=stno[stid[34]];
+  document.getElementById("r35").value=rel[34];
+
+  document.getElementById("stno36").innerHTML=stno[stid[35]];
+  document.getElementById("r36").value=rel[35];
+
+  document.getElementById("stno37").innerHTML=stno[stid[36]];
+  document.getElementById("r37").value=rel[36];
+
+  document.getElementById("stno38").innerHTML=stno[stid[37]];
+  document.getElementById("r38").value=rel[37];
+
+  document.getElementById("stno39").innerHTML=stno[stid[38]];
+  document.getElementById("r39").value=rel[38];
+
+  document.getElementById("stno40").innerHTML=stno[stid[39]];
+  document.getElementById("r40").value=rel[39];
+
+  
+
+  document.getElementById("stno41").innerHTML=stno[stid[40]];
+  document.getElementById("r41").value=rel[40];
+
+  document.getElementById("stno42").innerHTML=stno[stid[41]];
+  document.getElementById("r42").value=rel[41];
+
+  document.getElementById("stno43").innerHTML=stno[stid[42]];
+  document.getElementById("r43").value=rel[42];
+
+  document.getElementById("stno44").innerHTML=stno[stid[43]];
+  document.getElementById("r44").value=rel[43];
+
+  document.getElementById("stno45").innerHTML=stno[stid[44]];
+  document.getElementById("r45").value=rel[44];
+
+  document.getElementById("stno46").innerHTML=stno[stid[45]];
+  document.getElementById("r46").value=rel[45];
+
+  document.getElementById("stno47").innerHTML=stno[stid[46]];
+  document.getElementById("r47").value=rel[46];
+
+  document.getElementById("stno48").innerHTML=stno[stid[47]];
+  document.getElementById("r48").value=rel[47];
+
+  document.getElementById("stno49").innerHTML=stno[stid[48]];
+  document.getElementById("r49").value=rel[48];
+  
+  document.getElementById("stno50").innerHTML=stno[stid[49]];
+  document.getElementById("r50").value=rel[49];
+
+
 }
